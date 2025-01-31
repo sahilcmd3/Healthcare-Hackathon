@@ -1,2 +1,0 @@
-# AMC-CMC-Frontend
- 
