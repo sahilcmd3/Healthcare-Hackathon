@@ -28,6 +28,10 @@ This project is an application designed to simplify the process of updating and 
 - **Notifications:** Azure Notification Hub, Azure Communication Services
 - **Role-Based Access Control:** Implemented to manage user permissions and enhance security.
 
+## Architecture
+
+![Architecture](https://github.com/user-attachments/assets/1bff2a0a-c93e-46b6-a457-357275c50cbd)
+
 ## Future Enhancements
 
 - **Mobile Application:** Develop a mobile application for easier access and management on the go.
